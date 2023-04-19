@@ -13,17 +13,25 @@ I am a developer with skills in front-end design and development, as well as som
 
 <h3>Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=higorabreu&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=higorabreu&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true&count_private=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=higorabreu&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true"/>
 </p>
 
 
 <h3>Languages & Tools</h3>
 <div>
-<img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-<img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-<img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-<img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-<img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
-<img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+<code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
+<code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
+<code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
+<code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"></code>
+<code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"></code>
+<code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
 </div>
+
+<h3>Contact Me</h3>
+<a href="https://www.linkedin.com/in/higorabreuf/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:higorabreuf@gmail.com">
+  <img src="https://img.shields.io/badge/email-%230077B5.svg?style=for-the-badge&logo=gmail&color=grey">
+</a>
