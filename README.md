@@ -29,7 +29,7 @@ I am a developer with skills in front-end design and development, as well as som
 </div>
 
 <h3>Contact Me</h3>
-<a href="https://www.linkedin.com/in/higorabreuf/">
+<a href="https://www.linkedin.com/in/higorabreuf/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin">
 </a>
 <a href="mailto:higorabreuf@gmail.com">
