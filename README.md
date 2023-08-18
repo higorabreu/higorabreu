@@ -13,8 +13,8 @@ I am a developer with skills in front-end design and development, as well as som
 
 <h3>Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=higorabreu&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=higorabreu&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true"/>
+  <img src="https://github-readme-stats-nine-steel-47.vercel.app/api?username=higorabreu&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats-nine-steel-47.vercel.app/api/top-langs?username=higorabreu&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true"/>
 </p>
 
 
