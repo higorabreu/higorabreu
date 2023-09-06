@@ -21,8 +21,7 @@ I am a developer with skills in front-end design and development, as well as som
 <h3>Languages & Tools</h3>
 <div>
 <code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
-<code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
-<code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
+<code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>
 <code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"></code>
 <code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"></code>
 <code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
