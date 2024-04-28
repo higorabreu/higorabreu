@@ -7,7 +7,7 @@
 
 <h3>About Me</h3>
 <p>
-I am a developer with skills in front-end design and development, as well as some knowledge of backend development. I have experience with HTML, CSS, JavaScript, and front-end frameworks such as React and Vue.js. I possess strong programming logic, knowledge in languages such as Python, databases, APIs, and system architecture. I am a collaborative professional with excellent communication skills and always seeking new challenges to enhance my abilities.
+I am a developer with skills in front-end design and development, as well as some knowledge of backend development. I have experience with HTML, CSS, JavaScript, and front-end frameworks such as React and Tailwind. I possess strong programming logic, knowledge in languages such as Python, databases, APIs, and system architecture. I am a collaborative professional with excellent communication skills and always seeking new challenges to enhance my abilities.
 </p>
 
 
