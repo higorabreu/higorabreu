@@ -7,7 +7,7 @@
 
 <h3>About Me</h3>
 <p>
-I am a developer with skills in front-end design and development, as well knowledge of backend development. I have a mastery of essential technologies such as HTML, CSS, and JavaScript, along with extensive experience in front-end libraries like React and tools like Tailwind CSS. I possess strong programming logic, knowledge in languages such as Python, databases, APIs, and system architecture. I am a collaborative professional with excellent communication skills and always seeking new challenges to enhance my abilities.
+I am a developer focused in backend development, with a solid understanding of front-end technologies. I have extensive experience with databases, APIs, and system architecture, and am proficient with tools like Docker and Kubernetes. My strong programming logic and problem-solving skills are complemented by a collaborative approach and excellent communication abilities. I am always seeking new challenges to enhance my expertise and contribute to innovative projects.
 </p>
 
 
