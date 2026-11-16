@@ -1,36 +1,7 @@
-<h2 align="center">Hello there. I'm Higor Abreu!🚀</h2>
+## Higor Abreu
 
-<p>
-<i>It's my new GitHub profile.</i>
-</p>
+Software engineer with [N] years of experience, working on critical systems for digital certification, identity and secure communication. I mostly design the back end: asynchronous messaging, batch pipelines and traceability from end to end.
 
+I'm currently introducing spec-driven development with AI agents into my team's workflow. In my free time I build [Dev Cockpit](https://github.com/higorabreu/dev-cockpit), an open source terminal for working beside coding agents.
 
-<h3>About Me</h3>
-<p>
-I am a developer focused in backend development, with a solid understanding of front-end technologies. I have extensive experience with databases, APIs, and system architecture, and am proficient with tools like Docker and Kubernetes. My strong programming logic and problem-solving skills are complemented by a collaborative approach and excellent communication abilities. I am always seeking new challenges to enhance my expertise and contribute to innovative projects.
-</p>
-
-
-<h3>Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats-mu-rosy-86.vercel.app/api?username=higorabreu&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats-mu-rosy-86.vercel.app/api/top-langs?username=higorabreu&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true"/>
-</p>
-
-
-<h3>Languages & Tools</h3>
-<div>
-<code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
-<code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>
-<code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"></code>
-<code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"></code>
-<code><img height="25" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
-</div>
-
-<h3>Contact Me</h3>
-<a href="https://www.linkedin.com/in/higorabreuf/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin">
-</a>
-<a href="mailto:higorabreuf@gmail.com">
-  <img src="https://img.shields.io/badge/email-%230077B5.svg?style=for-the-badge&logo=gmail&color=grey">
-</a>
+Reach me on [LinkedIn](https://www.linkedin.com/in/higorabreuf/).
